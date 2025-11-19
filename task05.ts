@@ -12,3 +12,4 @@ if (fruit === "apple") {
 } else {
 	console.log("Unknown fruit.");
 }
+
